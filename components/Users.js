@@ -26,7 +26,7 @@ export default Users;
 let styles = StyleSheet.create({
     usersTitle: {
         marginBottom: 20,
-        fontWeight: 700,
+        fontWeight: '700',
         textAlign: 'center',
     }
 });
